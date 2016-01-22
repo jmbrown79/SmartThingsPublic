@@ -59,4 +59,3 @@ def presenceHandler(evt)
 		log.debug "Everyone's away."
 	}
 }
-

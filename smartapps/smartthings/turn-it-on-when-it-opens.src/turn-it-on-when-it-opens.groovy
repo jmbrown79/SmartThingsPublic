@@ -50,4 +50,3 @@ def contactOpenHandler(evt) {
 	log.trace "Turning on switches: $switches"
 	switches.on()
 }
-
